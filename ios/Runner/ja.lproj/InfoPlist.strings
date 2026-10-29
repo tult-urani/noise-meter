@@ -1,0 +1,1 @@
+"NSMicrophoneUsageDescription" = "NoiseMeterは周囲の騒音を測定するためにマイクを使用します。音声は端末内でのみ解析され、録音や送信は行われません。";

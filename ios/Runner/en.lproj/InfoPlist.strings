@@ -1,0 +1,1 @@
+"NSMicrophoneUsageDescription" = "NoiseMeter uses the microphone to measure ambient noise. Audio is analysed on the device only, never recorded or sent.";
